@@ -15,3 +15,7 @@ py -m pip install numpy
 apt-get install python3-tk
 python3 -m pip install numpy
 ```
+
+## Resources
+
+<https://github.com/kasir-barati/my-python-journey/>
