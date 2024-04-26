@@ -25,6 +25,8 @@ python3 -m pip install numpy
 
 ## Resources
 
+<https://docs.python.org/3.12/tutorial/introduction.html>
+
 ### Experts
 <https://github.com/kasir-barati/my-python-journey/>
 
