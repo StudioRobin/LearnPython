@@ -2,6 +2,13 @@
 
 ## Python Language
 
+* statements, syntax, expression
+* control flow
+* function
+* data structure
+* JSON & XML
+* iteration
+
 ## pip
 
 ```text
@@ -18,4 +25,9 @@ python3 -m pip install numpy
 
 ## Resources
 
+### Experts
 <https://github.com/kasir-barati/my-python-journey/>
+
+### Books
+
+<https://github.com/Apress/python-pygame-raspberry-pi-game-dev-2e>
