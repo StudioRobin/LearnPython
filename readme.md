@@ -23,6 +23,10 @@ apt-get install python3-tk
 python3 -m pip install numpy
 ```
 
+`pip install --upgrade fireworks-ai`
+
+`setx FIREWORKS_API_KEY API_KEY`
+
 ## Resources
 
 <https://docs.python.org/3.12/tutorial/introduction.html>
