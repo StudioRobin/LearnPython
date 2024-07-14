@@ -31,6 +31,8 @@ python3 -m pip install numpy
 
 <https://docs.python.org/3.12/tutorial/introduction.html>
 
+<https://anaconda.cloud/getting-started>
+
 ### Beginners
 
 <https://www.w3schools.com/python/>

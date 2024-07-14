@@ -1,9 +1,9 @@
 # pip install 'fireworks-ai'
-import fireworks.client
+import fireworks.client, os
 from fireworks.client.image import ImageInference, Answer
 
 # Initialize the ImageInference client
-fireworks.client.api_key = "JSpFwkIGCUmGDrWEAkYbLyPlUm545EnxnZ2lLpMHkD4E4N3l"
+fireworks.client.api_key = os.getenv('FIREWORKS_API_KEY')
 inference_client = ImageInference(model="playground-v2-1024px-aesthetic")
 #SSD-1B, playground-v2-1024px-aesthetic, stable-diffusion-xl-1024-v1-0, japanese-stable-diffusion-xl
 
