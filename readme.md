@@ -29,15 +29,6 @@ OPENAI_API_KEY
 
 `setx FIREWORKS_API_KEY API_KEY`
 
-## debuging
-
-```python
-# display is very useful IPython utility in Jupyter
-# https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html
-def show_json(obj):
-    display(json.loads(obj.model_dump_json()))
-```
-
 ## Resources
 
 <https://docs.python.org/3.12/tutorial/introduction.html>
