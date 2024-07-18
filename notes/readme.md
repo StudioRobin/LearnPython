@@ -1,5 +1,7 @@
 # Road map
 
+<https://docs.python.org/3/tutorial/index.html>
+
 - Syntax: Python has a clean and easy-to-understand syntax which makes it a great language for beginners.
 
 - Data Types: Understand the basic data types in Python - integers, floats, strings, and booleans.
