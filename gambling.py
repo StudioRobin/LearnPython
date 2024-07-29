@@ -9,11 +9,14 @@ while bettingamount > money:
     bettingamount = int(input("how much do you want to bet?"))
 
 choices = input("what do you want to bet on")
-while choices != options(0) or options(1):
-    print("invalid choices lil bro")
-    choices = input("what do you want to bet on")
-else:
-    print("you good")
+
+while True:
+    if choices not in options:
+        print("invalid choices lil bro")
+        choices = input("what do you want to bet on")
+    else:
+        print("you good")
+
     
 
 def roulette(bettingamount, choice):
